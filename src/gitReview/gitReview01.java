@@ -6,6 +6,7 @@ public class gitReview01 {
 		// TODO Auto-generated method stub
 		System.out.println("today we learn github");
 		System.out.println("today is a very nice day");
+		System.out.println("today is a very ugly day");
 	}
 
 }
